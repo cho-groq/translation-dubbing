@@ -4,9 +4,9 @@ This tool uses Groq's LLM, Speech-To-Text, and PlayAI Text-To-Speech (hosted on 
 
 ## Setup
 
-Clone the repository and navigate to the backend folder:
+Clone the repository and navigate to the main folder:
 
-`cd backend`
+`cd translation-dubbing`
 
 Create and activate a virtual environment:
 
